@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "960541751436",
+    "firebase_url": "https://musicmeetuu-938a1.firebaseio.com",
+    "project_id": "musicmeetuu-938a1",
+    "storage_bucket": "musicmeetuu-938a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960541751436:android:b619331c84daa337",
+        "android_client_info": {
+          "package_name": "com.example.musicmeetup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960541751436-qjibdbpb3qrflv4lkl9ojlr2asqr5sgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicmeetup",
+            "certificate_hash": "f4265e6ddfc2e6e86d27268995c7f33c733903f0"
+          }
+        },
+        {
+          "client_id": "960541751436-bbsj7n5dt90hfqvv6ofi68dg1rj6i83g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicmeetup",
+            "certificate_hash": "15e8ffedc3071e57bdb365b9c6d5767c7414c286"
+          }
+        },
+        {
+          "client_id": "960541751436-4nim1amkn8kms9dhu42add0o6m1lp6jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7eLpqRJR75MBHT92d5Zu-jFk_BuHyoYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960541751436-4nim1amkn8kms9dhu42add0o6m1lp6jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
